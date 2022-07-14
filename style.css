@@ -1,0 +1,112 @@
+* {
+    font-family: 'Times New Roman', Arial, sans-serif;
+}
+
+.main p {
+    font-size: 24px;
+    text-align: left;
+    font-weight: 700;
+    color: black;
+    text-transform:capitalize
+
+}
+
+.menu {
+    background-color:black;
+}
+
+
+.title {
+    text-align: center;
+}
+
+.title h1 {
+    color: brown;
+}   
+
+.main {
+    background-color: burlywood;
+}
+
+
+.salmon,
+.fried-rice,
+.pasta {
+    color: black;
+}
+
+
+.menu img{
+    text-align: left;
+    height: auto;
+    width: 50px;
+}
+
+
+.list {
+    float: left;
+    font-size: 26px;
+    font-style: italic;
+    text-align: left;
+    margin-top: auto;
+    color: brown;
+}
+
+.list a {
+    display: block;
+    text-align: center;
+    padding: 52px;
+    text-decoration:underline;
+    text-decoration-color:brown;
+}
+
+
+.recipes {
+    list-style-type:circle;
+    color:brown;
+}
+
+.plate {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+}
+
+.footer {
+    background-color: black;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 56px;
+}
+
+/*END of HTML CSS*/
+
+.salmon-main,
+.rice-main,
+.shrimp-main {
+    background-color: burlywood;
+}
+
+.salmon-main img,
+.rice-main img,
+.shrimp-main img {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    margin: 0, auto;
+    display: block;
+    width: 25%;
+}
+
+.salmon-main *,
+.rice-main *,
+.shrimp-main * {
+    font-size: 20px;
+}
+
+.salmon-main h1,
+.rice-main h1,
+.shrimp-main h1 {
+    text-align: center;
+}
